@@ -1,0 +1,39 @@
+#list li
+{
+  list-style: none;
+}
+#Searchlogo
+{
+  height:48px;
+  width:48px;
+  background: url(spriteimage.svg);
+}
+#Belllogo
+{
+  height:48px;
+  width:48px;
+  background: url(spriteimage.svg);
+  background-position: -47px 0px;
+}
+#Downloadlogo
+{
+  height:48px;
+  width:48px;
+  background: url(spriteimage.svg);
+  background-position: -770px 0px;
+}
+#Maillogo
+{
+  height:48px;
+  width:48px;
+  background: url(spriteimage.svg);
+  background-position: -460px 0px;
+}
+#Bookamarklogo
+{
+  height:48px;
+  width:48px;
+  background: url(spriteimage.svg);
+  background-position: -723px 0px;
+}
+
